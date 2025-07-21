@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/arun-singh1999">
   <img align="left" alt="Arun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/arunsinghsnd">
+<a href="https://github.com/arunsinghcodes">
   <img align="left" alt="Arun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/arun.singh.999/">
@@ -18,7 +18,7 @@
 
 <br/>
 <br/>
-<a href="https://arunkumarsingh.netlify.app/" target="_blank"><img align="right" alt="GIF" src="https://github.com/arunsinghsnd/arunsinghsnd/blob/master/ezgif.com-optimize.gif?raw=true" width="450" height="270" /></a>
+<a href="https://arunkumarsingh.netlify.app/" target="_blank"><img align="right" alt="GIF" src="https://github.com/arunsinghcodes/arunsinghcodes/blob/master/ezgif.com-optimize.gif?raw=true" width="450" height="270" /></a>
 
 **Talking about Personal Stuffs:**
 
@@ -33,7 +33,7 @@
 - ⚡ Fun fact: I will stay up late night to talk to folks about Inclusion and Diversity :owl:
 
 [![Twitter: ImArunverto](https://img.shields.io/twitter/follow/ImArunverto?style=social)](https://twitter.com/ImArunverto)
-[![GitHub arunsinghsnd](https://img.shields.io/github/followers/arunsinghsnd?label=follow&style=social)](https://github.com/arunsinghsnd)
+[![GitHub arunsinghcodes](https://img.shields.io/github/followers/arunsinghcodes?label=follow&style=social)](https://github.com/arunsinghcodes)
 [![website](https://img.shields.io/badge/PortfolioWebsite-arunkumarsingh.me-2648ff?style=flat-square&logo=firefox)](https://arunkumarsingh.me/)
 
 **Languages and Tools:**
@@ -48,18 +48,16 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-<a href="https://github.com/arunsinghsnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsinghsnd&theme=gotham&hide_langs_below=1" />
+<a href="https://github.com/arunsinghcodes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsinghcodes&theme=gotham&hide_langs_below=1" />
 </a>
-<a href="https://github.com/arunsinghsnd">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunsinghsnd&show_icons=true&theme=gotham&line_height=27" alt="Arun's github stats"/>
+<a href="https://github.com/arunsinghcodes">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunsinghcodes&show_icons=true&theme=gotham&line_height=27" alt="Arun's github stats"/>
 </a>
 
 ## My Github Status 🚀
 
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsinghsnd" />
-
-![Visitor Count](https://profile-counter.glitch.me/{arunsinghsnd}/count.svg)
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsinghcodes" />
 
 <div align="center">
 
